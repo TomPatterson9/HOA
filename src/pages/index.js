@@ -1,6 +1,7 @@
 import * as React from "react"
 import { StaticImage } from "gatsby-plugin-image"
 
+
 const pageStyles = {
   color: "#232129",
   padding: 96,
