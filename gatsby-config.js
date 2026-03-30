@@ -2,7 +2,6 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-    pathPrefix: "/hoa",
     plugins: [
     
     `gatsby-plugin-image`,
