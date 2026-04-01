@@ -1,0 +1,15 @@
+.card {
+  background: #111;
+  border: 1px solid #222;
+  padding: 16px;
+  border-radius: 6px;
+}
+
+.card h3 {
+  color: #ffd600;
+}
+
+.price {
+  color: #ccc;
+  margin-top: 8px;
+}
